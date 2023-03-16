@@ -1,0 +1,75 @@
+commit d61de121d4d3d0400477efe02b1f363c1b369bbb
+Author: PranjalDeuri14 <mamonideuri786@gmail.com>
+Date:   Thu Mar 16 23:57:38 2023 +0530
+
+    Deleting file2.txt
+
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index ecd8ff6..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2025 Software_Engineer
+\ No newline at end of file
+
+commit 6df47509f2427141c5056843aba5ff35d0b00e12
+Author: PranjalDeuri14 <mamonideuri786@gmail.com>
+Date:   Thu Mar 16 23:39:00 2023 +0530
+
+     file2.txt has been staged
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..ecd8ff6
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 Software_Engineer
+\ No newline at end of file
+
+commit 3d390cca8e8bf5114ced4f90a41eb9e31794fb90
+Author: PranjalDeuri14 <mamonideuri786@gmail.com>
+Date:   Tue Mar 14 12:29:30 2023 +0530
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 4ef4975..bfd1483 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Pranjal 27198
+\ No newline at end of file
++Pranjal CSE
+\ No newline at end of file
+
+commit 2206e3f5d850f73d029010890032397683059ea4
+Author: PranjalDeuri14 <mamonideuri786@gmail.com>
+Date:   Tue Mar 14 12:18:57 2023 +0530
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..4ef4975
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Pranjal 27198
+\ No newline at end of file
+
+commit 3a779c16f7815ae836f81551ead2f7a7bc127360
+Author: PranjalDeuri14 <mamonideuri786@gmail.com>
+Date:   Thu Mar 9 15:20:05 2023 +0530
+
+    first comit
+
+diff --git a/text.txt b/text.txt
+new file mode 100644
+index 0000000..4ef4975
+--- /dev/null
++++ b/text.txt
+@@ -0,0 +1 @@
++Pranjal 27198
+\ No newline at end of file
